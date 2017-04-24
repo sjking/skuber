@@ -26,7 +26,7 @@ lazy val commonSettings = Seq(
   licenses += ("Apache-2.0", url("https://www.apache.org/licenses/LICENSE-2.0.html")),
   publishMavenStyle := false,
   bintrayRepository := "skuber",
-  version := "0.1-SNAPSHOT"
+  version := "0.5-SNAPSHOT"
 )
 
 lazy val skuberSettings = Seq(
